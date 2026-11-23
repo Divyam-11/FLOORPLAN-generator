@@ -1,0 +1,534 @@
+{
+  "5": {
+    "prompt": "A 2-bedroom apartment with a living room, a kitchen and 1 bathroom.",
+    "samples": 12,
+    "ged": 0,
+    "ged_n": 12,
+    "overlap": 0.08,
+    "overlap_pct": 0.002,
+    "room_id": 1,
+    "valid": 1,
+    "seconds": 10.0,
+    "rows": [
+      {
+        "seed": 2000,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0017887224061977633,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 12.642227458767593
+      },
+      {
+        "seed": 2001,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.001046435594885359,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 10.911841042339802
+      },
+      {
+        "seed": 2002,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0006508394947583095,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 9.292226875200868
+      },
+      {
+        "seed": 2003,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0009276507027279289,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 9.234122540801764
+      },
+      {
+        "seed": 2004,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.002716646134867384,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 10.321993582881987
+      },
+      {
+        "seed": 2005,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0017050007562875566,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 10.158941290341318
+      },
+      {
+        "seed": 2006,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0005688729111887718,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 10.206374707631767
+      },
+      {
+        "seed": 2007,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.00045795533053857884,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 8.698605417273939
+      },
+      {
+        "seed": 2008,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.002245862712663936,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 9.27082849945873
+      },
+      {
+        "seed": 2009,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0013642457246369822,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 10.90507754124701
+      },
+      {
+        "seed": 2010,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.004254132330819499,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 9.49595991615206
+      },
+      {
+        "seed": 2011,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.00100195315884884,
+        "room_id": true,
+        "rooms": 5,
+        "seconds": 8.91673808451742
+      }
+    ]
+  },
+  "6": {
+    "prompt": "A 2-bedroom apartment with a living room, a kitchen, 1 bathroom and 1 balcony.",
+    "samples": 12,
+    "ged": 0.33,
+    "ged_n": 12,
+    "overlap": 0.33,
+    "overlap_pct": 0.003,
+    "room_id": 1,
+    "valid": 0.83,
+    "seconds": 9.5,
+    "rows": [
+      {
+        "seed": 2000,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0023296988647169056,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 11.927096041850746
+      },
+      {
+        "seed": 2001,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.0033877130592576913,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 11.65641324967146
+      },
+      {
+        "seed": 2002,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.002800769262019597,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 10.346135792322457
+      },
+      {
+        "seed": 2003,
+        "valid": false,
+        "ged": 2,
+        "overlap": false,
+        "overlap_fraction": 0.0017628645143058814,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 8.608428624458611
+      },
+      {
+        "seed": 2004,
+        "valid": false,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0007764837371288094,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 8.543449625372887
+      },
+      {
+        "seed": 2005,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0011768917268916543,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 8.516362958587706
+      },
+      {
+        "seed": 2006,
+        "valid": true,
+        "ged": 1,
+        "overlap": false,
+        "overlap_fraction": 0.00227533528266784,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 8.840695332735777
+      },
+      {
+        "seed": 2007,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0026725763390623852,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 9.13844983279705
+      },
+      {
+        "seed": 2008,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.002204013973235589,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 9.047565374523401
+      },
+      {
+        "seed": 2009,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0012838079541760698,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 8.49033591710031
+      },
+      {
+        "seed": 2010,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.003137072045677019,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 8.70944804046303
+      },
+      {
+        "seed": 2011,
+        "valid": true,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.006384897309801535,
+        "room_id": true,
+        "rooms": 6,
+        "seconds": 10.13176687527448
+      }
+    ]
+  },
+  "7": {
+    "prompt": "A 3-bedroom apartment with a living room, a kitchen and 2 bathrooms.",
+    "samples": 12,
+    "ged": 0.33,
+    "ged_n": 12,
+    "overlap": 0.75,
+    "overlap_pct": 0.019,
+    "room_id": 1,
+    "valid": 0.83,
+    "seconds": 9.9,
+    "rows": [
+      {
+        "seed": 2000,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.001987510954951814,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 8.558653958141804
+      },
+      {
+        "seed": 2001,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.0029395078176680163,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 8.6809763321653
+      },
+      {
+        "seed": 2002,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0009794874005332722,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 10.442356333136559
+      },
+      {
+        "seed": 2003,
+        "valid": true,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.007711544616290066,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 11.163673999719322
+      },
+      {
+        "seed": 2004,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.05508635316290821,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 9.450993957929313
+      },
+      {
+        "seed": 2005,
+        "valid": false,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.038246585171343835,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 10.890733875334263
+      },
+      {
+        "seed": 2006,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.0030620485676832736,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 10.138998374342918
+      },
+      {
+        "seed": 2007,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0013305617623631965,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 10.565871709026396
+      },
+      {
+        "seed": 2008,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.004058104061805765,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 11.35889595746994
+      },
+      {
+        "seed": 2009,
+        "valid": false,
+        "ged": 2,
+        "overlap": true,
+        "overlap_fraction": 0.07638161449867666,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 9.834777916781604
+      },
+      {
+        "seed": 2010,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.03349524259177583,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 8.946544499136508
+      },
+      {
+        "seed": 2011,
+        "valid": true,
+        "ged": 0,
+        "overlap": false,
+        "overlap_fraction": 0.0011337888027060515,
+        "room_id": true,
+        "rooms": 7,
+        "seconds": 9.217846083454788
+      }
+    ]
+  },
+  "8": {
+    "prompt": "A 3-bedroom apartment with a living room, a kitchen, 2 bathrooms and 1 balcony.",
+    "samples": 12,
+    "ged": 1,
+    "ged_n": 12,
+    "overlap": 1,
+    "overlap_pct": 0.005,
+    "room_id": 1,
+    "valid": 0.67,
+    "seconds": 9.2,
+    "rows": [
+      {
+        "seed": 2000,
+        "valid": false,
+        "ged": 2,
+        "overlap": true,
+        "overlap_fraction": 0.002350188062846165,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 9.83239620923996
+      },
+      {
+        "seed": 2001,
+        "valid": false,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.002026640079840575,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 8.790806625038385
+      },
+      {
+        "seed": 2002,
+        "valid": true,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.0027496926131793708,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 8.722378292120993
+      },
+      {
+        "seed": 2003,
+        "valid": true,
+        "ged": 2,
+        "overlap": true,
+        "overlap_fraction": 0.003716565295341058,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 8.575157667510211
+      },
+      {
+        "seed": 2004,
+        "valid": true,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.005775580042198778,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 8.717216874472797
+      },
+      {
+        "seed": 2005,
+        "valid": true,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.01742097833193051,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 9.149431208148599
+      },
+      {
+        "seed": 2006,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.0019976445699636555,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 8.836969666182995
+      },
+      {
+        "seed": 2007,
+        "valid": false,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.005227137480232411,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 8.652767916209996
+      },
+      {
+        "seed": 2008,
+        "valid": true,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.004858444343007256,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 8.5788688743487
+      },
+      {
+        "seed": 2009,
+        "valid": true,
+        "ged": 0,
+        "overlap": true,
+        "overlap_fraction": 0.004310779444272215,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 9.97654474992305
+      },
+      {
+        "seed": 2010,
+        "valid": false,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.005043989517286309,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 10.984480749815702
+      },
+      {
+        "seed": 2011,
+        "valid": true,
+        "ged": 1,
+        "overlap": true,
+        "overlap_fraction": 0.0028652806252469363,
+        "room_id": true,
+        "rooms": 8,
+        "seconds": 9.453839500434697
+      }
+    ]
+  }
+}

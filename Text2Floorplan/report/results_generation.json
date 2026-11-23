@@ -1,0 +1,419 @@
+[
+  {
+    "prompt": "A small 1-bedroom apartment with 1 bathroom.",
+    "seed": 1000,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 3,
+    "area_m2": 61.5,
+    "final_seed": 1000,
+    "seconds": 10.601512749679387
+  },
+  {
+    "prompt": "A small 1-bedroom apartment with 1 bathroom.",
+    "seed": 1001,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 3,
+    "area_m2": 61.2,
+    "final_seed": 1001,
+    "seconds": 8.958067416213453
+  },
+  {
+    "prompt": "A small 1-bedroom apartment with 1 bathroom.",
+    "seed": 1002,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 3,
+    "area_m2": 61.1,
+    "final_seed": 1002,
+    "seconds": 8.494619333185256
+  },
+  {
+    "prompt": "A small 1-bedroom apartment with 1 bathroom.",
+    "seed": 1003,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 3,
+    "area_m2": 63.1,
+    "final_seed": 1003,
+    "seconds": 8.651743458583951
+  },
+  {
+    "prompt": "A small 1-bedroom apartment with 1 bathroom.",
+    "seed": 1004,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 3,
+    "area_m2": 59.1,
+    "final_seed": 1004,
+    "seconds": 9.345572041347623
+  },
+  {
+    "prompt": "A small 2-bedroom apartment with 1 bathroom and 1 balcony.",
+    "seed": 1000,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 5,
+    "area_m2": 73.8,
+    "final_seed": 1000,
+    "seconds": 9.13783554174006
+  },
+  {
+    "prompt": "A small 2-bedroom apartment with 1 bathroom and 1 balcony.",
+    "seed": 1001,
+    "raw_connection_recall": 0.5,
+    "valid": false,
+    "stage": "layout",
+    "error": "connected rooms have no generated doorway",
+    "seconds": 8.800557957962155
+  },
+  {
+    "prompt": "A small 2-bedroom apartment with 1 bathroom and 1 balcony.",
+    "seed": 1002,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 5,
+    "area_m2": 72.2,
+    "final_seed": 1002,
+    "seconds": 8.63365020789206
+  },
+  {
+    "prompt": "A small 2-bedroom apartment with 1 bathroom and 1 balcony.",
+    "seed": 1003,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 5,
+    "area_m2": 70.0,
+    "final_seed": 1003,
+    "seconds": 8.776884999126196
+  },
+  {
+    "prompt": "A small 2-bedroom apartment with 1 bathroom and 1 balcony.",
+    "seed": 1004,
+    "raw_connection_recall": 1.0,
+    "valid": false,
+    "stage": "layout",
+    "error": "bathroom 1 is too small",
+    "seconds": 9.004705375060439
+  },
+  {
+    "prompt": "A 2-bedroom apartment with 1 bathroom and 1 balcony.",
+    "seed": 1000,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 5,
+    "area_m2": 73.8,
+    "final_seed": 1000,
+    "seconds": 10.381360666826367
+  },
+  {
+    "prompt": "A 2-bedroom apartment with 1 bathroom and 1 balcony.",
+    "seed": 1001,
+    "raw_connection_recall": 0.5,
+    "valid": false,
+    "stage": "layout",
+    "error": "connected rooms have no generated doorway",
+    "seconds": 9.01736216712743
+  },
+  {
+    "prompt": "A 2-bedroom apartment with 1 bathroom and 1 balcony.",
+    "seed": 1002,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 5,
+    "area_m2": 72.2,
+    "final_seed": 1002,
+    "seconds": 8.970446791499853
+  },
+  {
+    "prompt": "A 2-bedroom apartment with 1 bathroom and 1 balcony.",
+    "seed": 1003,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 5,
+    "area_m2": 70.0,
+    "final_seed": 1003,
+    "seconds": 9.017833458259702
+  },
+  {
+    "prompt": "A 2-bedroom apartment with 1 bathroom and 1 balcony.",
+    "seed": 1004,
+    "raw_connection_recall": 1.0,
+    "valid": false,
+    "stage": "layout",
+    "error": "bathroom 1 is too small",
+    "seconds": 9.661550542339683
+  },
+  {
+    "prompt": "A 3-bedroom apartment with 2 bathrooms and 1 balcony.",
+    "seed": 1000,
+    "valid": false,
+    "stage": "geometry",
+    "error": "Room 0 still contains a narrow appendage",
+    "seconds": 8.99706379044801
+  },
+  {
+    "prompt": "A 3-bedroom apartment with 2 bathrooms and 1 balcony.",
+    "seed": 1001,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 7,
+    "area_m2": 86.6,
+    "final_seed": 1001,
+    "seconds": 9.10277087520808
+  },
+  {
+    "prompt": "A 3-bedroom apartment with 2 bathrooms and 1 balcony.",
+    "seed": 1002,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 7,
+    "area_m2": 101.7,
+    "final_seed": 1002,
+    "seconds": 8.977014916948974
+  },
+  {
+    "prompt": "A 3-bedroom apartment with 2 bathrooms and 1 balcony.",
+    "seed": 1003,
+    "raw_connection_recall": 1.0,
+    "valid": false,
+    "stage": "layout",
+    "error": "bathroom 1 is too small",
+    "seconds": 9.092296499758959
+  },
+  {
+    "prompt": "A 3-bedroom apartment with 2 bathrooms and 1 balcony.",
+    "seed": 1004,
+    "raw_connection_recall": 0.833,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 7,
+    "area_m2": 95.1,
+    "final_seed": 1004,
+    "seconds": 8.663748041726649
+  },
+  {
+    "prompt": "A large 3-bedroom apartment with 2 bathrooms and 2 balconies.",
+    "seed": 1000,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 8,
+    "area_m2": 138.4,
+    "final_seed": 1000,
+    "seconds": 11.336214291863143
+  },
+  {
+    "prompt": "A large 3-bedroom apartment with 2 bathrooms and 2 balconies.",
+    "seed": 1001,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 8,
+    "area_m2": 134.4,
+    "final_seed": 1001,
+    "seconds": 10.882396708242595
+  },
+  {
+    "prompt": "A large 3-bedroom apartment with 2 bathrooms and 2 balconies.",
+    "seed": 1002,
+    "valid": false,
+    "stage": "geometry",
+    "error": "Room 1 has a narrow or disconnected body",
+    "seconds": 10.231944625265896
+  },
+  {
+    "prompt": "A large 3-bedroom apartment with 2 bathrooms and 2 balconies.",
+    "seed": 1003,
+    "valid": false,
+    "stage": "geometry",
+    "error": "Room 1 has a narrow or disconnected body",
+    "seconds": 10.394274916499853
+  },
+  {
+    "prompt": "A large 3-bedroom apartment with 2 bathrooms and 2 balconies.",
+    "seed": 1004,
+    "raw_connection_recall": 0.857,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 8,
+    "area_m2": 118.6,
+    "final_seed": 1004,
+    "seconds": 10.495050583034754
+  },
+  {
+    "prompt": "A large 4-bedroom apartment with 2 bathrooms and 2 balconies.",
+    "seed": 1000,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 9,
+    "area_m2": 120.5,
+    "final_seed": 1000,
+    "seconds": 10.24050325062126
+  },
+  {
+    "prompt": "A large 4-bedroom apartment with 2 bathrooms and 2 balconies.",
+    "seed": 1001,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 0,
+    "rooms": 9,
+    "area_m2": 122.9,
+    "final_seed": 1001,
+    "seconds": 9.771885374560952
+  },
+  {
+    "prompt": "A large 4-bedroom apartment with 2 bathrooms and 2 balconies.",
+    "seed": 1002,
+    "raw_connection_recall": 1.0,
+    "valid": false,
+    "stage": "layout",
+    "error": "bathroom 2 is too small",
+    "seconds": 9.288180124945939
+  },
+  {
+    "prompt": "A large 4-bedroom apartment with 2 bathrooms and 2 balconies.",
+    "seed": 1003,
+    "raw_connection_recall": 0.556,
+    "valid": false,
+    "stage": "layout",
+    "error": "connected rooms have no generated doorway",
+    "seconds": 10.117797791957855
+  },
+  {
+    "prompt": "A large 4-bedroom apartment with 2 bathrooms and 2 balconies.",
+    "seed": 1004,
+    "valid": false,
+    "stage": "geometry",
+    "error": "A narrow strip cannot be safely assigned to a neighbor",
+    "seconds": 10.528628166764975
+  },
+  {
+    "prompt": "2 bedroom flat with a dining room, a kitchen, 1 bathroom and a terrace",
+    "seed": 1000,
+    "raw_connection_recall": 1.0,
+    "valid": true,
+    "counts_match": true,
+    "ged": 1,
+    "rooms": 7,
+    "area_m2": 58.8,
+    "final_seed": 1000,
+    "seconds": 11.800553875043988
+  },
+  {
+    "prompt": "2 bedroom flat with a dining room, a kitchen, 1 bathroom and a terrace",
+    "seed": 1001,
+    "raw_connection_recall": 1.0,
+    "valid": false,
+    "stage": "layout",
+    "error": "connected rooms have no generated doorway",
+    "seconds": 10.443012709729373
+  },
+  {
+    "prompt": "2 bedroom flat with a dining room, a kitchen, 1 bathroom and a terrace",
+    "seed": 1002,
+    "raw_connection_recall": 0.875,
+    "valid": false,
+    "stage": "layout",
+    "error": "connected rooms have no generated doorway",
+    "seconds": 12.27219024952501
+  },
+  {
+    "prompt": "2 bedroom flat with a dining room, a kitchen, 1 bathroom and a terrace",
+    "seed": 1003,
+    "raw_connection_recall": 1.0,
+    "valid": false,
+    "stage": "layout",
+    "error": "bathroom 1 is too small",
+    "seconds": 10.245411832816899
+  },
+  {
+    "prompt": "2 bedroom flat with a dining room, a kitchen, 1 bathroom and a terrace",
+    "seed": 1004,
+    "raw_connection_recall": 0.857,
+    "valid": false,
+    "stage": "layout",
+    "error": "bathroom 1 is too small",
+    "seconds": 10.368073125369847
+  },
+  {
+    "prompt": "3bhk with a pooja room, a study, 2 bathrooms and a balcony garden",
+    "seed": 1000,
+    "raw_connection_recall": 0.818,
+    "valid": false,
+    "stage": "layout",
+    "error": "connected rooms have no generated doorway",
+    "seconds": 10.83392483368516
+  },
+  {
+    "prompt": "3bhk with a pooja room, a study, 2 bathrooms and a balcony garden",
+    "seed": 1001,
+    "raw_connection_recall": 0.7,
+    "valid": true,
+    "counts_match": true,
+    "ged": 5,
+    "rooms": 10,
+    "area_m2": 116.2,
+    "final_seed": 1001,
+    "seconds": 11.572248917073011
+  },
+  {
+    "prompt": "3bhk with a pooja room, a study, 2 bathrooms and a balcony garden",
+    "seed": 1002,
+    "valid": false,
+    "stage": "geometry",
+    "error": "Room 9 has a narrow or disconnected body",
+    "seconds": 11.319424916990101
+  },
+  {
+    "prompt": "3bhk with a pooja room, a study, 2 bathrooms and a balcony garden",
+    "seed": 1003,
+    "raw_connection_recall": 0.818,
+    "valid": false,
+    "stage": "layout",
+    "error": "connected rooms have no generated doorway",
+    "seconds": 11.553794458508492
+  },
+  {
+    "prompt": "3bhk with a pooja room, a study, 2 bathrooms and a balcony garden",
+    "seed": 1004,
+    "valid": false,
+    "stage": "geometry",
+    "error": "Room 8 has a narrow or disconnected body",
+    "seconds": 10.874807833693922
+  }
+]
