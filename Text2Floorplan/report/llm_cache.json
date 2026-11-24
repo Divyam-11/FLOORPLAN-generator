@@ -1,0 +1,138 @@
+{
+ "A 3-bedroom apartment with 2 bathrooms and 1 balcony.": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom 1\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bedroom 2\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bedroom 3\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom 1\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom 2\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 41.43
+ },
+ "A small 2-bedroom apartment with 1 bathroom and 1 balcony.": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 11.97
+ },
+ "A large 4-bedroom apartment with 2 bathrooms and 2 balconies.": {
+  "reply": "{\"size\": \"large\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Bedroom 1\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Bedroom 2\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Bathroom 1\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Balcony 1\", \"shape\": \"balcony\", \"count\": 1}, {\"name\": \"Balcony 2\", \"shape\": \"balcony\", \"count\": 1}]}",
+  "seconds": 13.23
+ },
+ "3bhk with 2 bathrooms": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Master bedroom\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1}]}",
+  "seconds": 10.42
+ },
+ "two bedroom flat with one bathroom and a balcony": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 9.39
+ },
+ "A 4 bedroom apartment, with one dining room, 1 living room, a kitchen and 5 bathrooms and 3 balconies": {
+  "reply": "{\"size\": \"large\", \"rooms\": [{\"name\": \"Dining room\", \"shape\": \"dining room\", \"count\": 1}, {\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 3}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 5}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 3}]}",
+  "seconds": 10.93
+ },
+ "3 bedroom apartment where every bedroom has an attached bathroom, plus one common bathroom, a kitchen, a dining room and a balcony garden": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Dining room\", \"shape\": \"dining room\", \"count\": 1}, {\"name\": \"Bedroom 1\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bedroom 2\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bedroom 3\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom 1\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Bedroom 1\"]}, {\"name\": \"Bathroom 2\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Bedroom 2\"]}, {\"name\": \"Bathroom 3\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Bedroom 3\"]}, {\"name\": \"Common bathroom\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Bathroom 1\", \"Bathroom 2\", \"Bathroom 3\"]}, {\"name\": \"Balcony garden\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 26.15
+ },
+ "2 bed 2 bath flat with a study and a pantry": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Study\", \"shape\": \"study\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Pantry\", \"shape\": \"storage\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 12.46
+ },
+ "3bhk with a pooja room, a study, 2 bathrooms and a balcony garden": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Pooja room\", \"shape\": \"storage\", \"count\": 1, \"next_to\": []}], {\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Study\", \"shape\": \"study\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Balcony garden\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}]",
+  "seconds": 12.98
+ },
+ "studio apartment with a kitchen, one bathroom and a walk-in closet": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1}, {\"name\": \"Walk-in closet\", \"shape\": \"storage\", \"count\": 1, \"next_to\": [\"Kitchen\"]}]}",
+  "seconds": 7.63
+ },
+ "A 1 bedroom apartment with a home office, 1 bathroom and a terrace": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Home office\"]}, {\"name\": \"Home office\", \"shape\": \"home office\", \"count\": 1, \"next_to\": [\"Bedroom\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Bedroom\"]}, {\"name\": \"Terrace\", \"shape\": \"terrace\", \"count\": 1, \"next_to\": [\"Bedroom\"]}]}",
+  "seconds": 11.54
+ },
+ "four bedrooms, three bathrooms, a utility room and two balconies": {
+  "reply": "{\"size\": \"large\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 4}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 3}, {\"name\": \"Utility room\", \"shape\": \"utility\", \"count\": 1}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 2}]}",
+  "seconds": 10.7
+ },
+ "2 bedroom apartment with a master bedroom with en-suite, a common bathroom and a garden": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Master bedroom\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"en-suite\"]}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"en-suite\"]}, {\"name\": \"Common bathroom\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"master bedroom\"]}, {\"name\": \"Garden\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"common bathroom\"]}]}",
+  "seconds": 11.19
+ },
+ "A small flat with 1 bedroom, 1 bathroom, a kitchen and a storage room": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 1}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Storage room\", \"shape\": \"storage\", \"count\": 1}]}",
+  "seconds": 9.55
+ },
+ "3 bedrooms, 2 bathrooms, a gym and a balcony": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 3}, {\"name\": \"Gym\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1}]}",
+  "seconds": 10.33
+ },
+ "A 2-bedroom apartment with a guest room, 2 bathrooms and a laundry room": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Guest room\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Laundry room\", \"shape\": \"storage\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 10.86
+ },
+ "large 5 bedroom house with 4 bathrooms, a library, a dining room and 2 terraces": {
+  "reply": "{\"size\": \"large\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 4}, {\"name\": \"Library\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Dining room\", \"shape\": \"dining room\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 4}, {\"name\": \"Terrace\", \"shape\": \"terrace\", \"count\": 2, \"next_to\": [\"Living room\"]}][]}",
+  "seconds": 17.64
+ },
+ "1 bhk with a balcony": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 14.59
+ },
+ "apartment with 3 bedrooms, no balcony, 2 bathrooms and a kitchen": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 3}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}]}",
+  "seconds": 11.81
+ },
+ "2 bedroom apartment with a kids room, one bathroom and a pantry": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Kids room\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1}, {\"name\": \"Pantry\", \"shape\": \"storage\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 13.51
+ },
+ "A 3-bedroom apartment with 2 bathrooms, a media room and a patio": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Media room\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 12.95
+ },
+ "a cosy 1 bedroom flat with a study, a bathroom and a small balcony": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Study\"]}, {\"name\": \"Study\", \"shape\": \"study\", \"count\": 1, \"next_to\": [\"Bedroom\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Bedroom\"]}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Bedroom\"]}]}",
+  "seconds": 13.45
+ },
+ "two bedrooms with attached bathrooms, a kitchen, a living room and a balcony": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2, \"next_to\": [\"Bathroom\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1}]}",
+  "seconds": 12.36
+ },
+ "3 bedroom flat with 3 toilets, a family room and a balcony": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 3}, {\"name\": \"Family room\", \"shape\": \"living\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Toilet\", \"shape\": \"toilet\", \"count\": 3}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1}]}",
+  "seconds": 14.81
+ },
+ "4bhk with 3 bathrooms, a servant room and a pooja room": {
+  "reply": "{\"size\": \"large\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 3}, {\"name\": \"Master bedroom\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Guest bedroom\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 3}, {\"name\": \"Servant room\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Pooja room\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 17.65
+ },
+ "an apartment with 2 bedrooms, a music room, one bathroom and a terrace": {
+  "reply": "{\"size\": \"medium\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Music room\", \"shape\": \"music_room\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1}, {\"name\": \"Terrace\", \"shape\": \"terrace\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 14.01
+ },
+ "2 bedroom apartment with a home theatre, 2 bathrooms and a deck": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Home theater\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Deck\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 12.25
+ },
+ "a 3 bedroom home with a playroom, 2 bathrooms, kitchen, dining area and a veranda": {
+  "reply": "{\"size\": \"large\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 3}, {\"name\": \"Playroom\", \"shape\": \"playroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Dining area\", \"shape\": \"dining\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Veranda\", \"shape\": \"veranda\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 14.44
+ },
+ "flat with three bedrooms, a sauna, two bathrooms and a balcony": {
+  "reply": "{\"size\": \"large\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 3}, {\"name\": \"Sauna\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 2}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1}]}",
+  "seconds": 12.57
+ },
+ "1 bedroom apartment with an art studio, a bathroom and a rooftop terrace": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Art studio\", \"shape\": \"studio\", \"count\": 1, \"next_to\": [\"Bedroom\"]}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Art studio\"]}, {\"name\": \"Rooftop terrace\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Art studio\"]}]}",
+  "seconds": 11.24
+ },
+ "A small 1-bedroom apartment with 1 bathroom.": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Bathroom\"]}]}",
+  "seconds": 10.43
+ },
+ "A 2-bedroom apartment with 1 bathroom and 1 balcony.": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Balcony\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 12.36
+ },
+ "A large 3-bedroom apartment with 2 bathrooms and 2 balconies.": {
+  "reply": "{\"size\": \"large\", \"rooms\": [{\"name\": \"Living room\", \"shape\": \"living\", \"count\": 1}, {\"name\": \"Bedroom 1\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bedroom 2\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bedroom 3\", \"shape\": \"bedroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom 1\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Bathroom 2\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Balcony 1\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}, {\"name\": \"Balcony 2\", \"shape\": \"balcony\", \"count\": 1, \"next_to\": [\"Living room\"]}]}",
+  "seconds": 22.88
+ },
+ "2 bedroom flat with a dining room, a kitchen, 1 bathroom and a terrace": {
+  "reply": "{\"size\": \"small\", \"rooms\": [{\"name\": \"Dining room\", \"shape\": \"dining room\", \"count\": 1, \"next_to\": [\"Kitchen\"]}, {\"name\": \"Kitchen\", \"shape\": \"kitchen\", \"count\": 1}, {\"name\": \"Bedroom\", \"shape\": \"bedroom\", \"count\": 2}, {\"name\": \"Bathroom\", \"shape\": \"bathroom\", \"count\": 1, \"next_to\": [\"Kitchen\"]}, {\"name\": \"Terrace\", \"shape\": \"terrace\", \"count\": 1, \"next_to\": [\"Kitchen\"]}]}",
+  "seconds": 17.54
+ }
+}

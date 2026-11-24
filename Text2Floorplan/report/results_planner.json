@@ -1,0 +1,1485 @@
+{
+  "original": {
+    "count_accuracy": 45.7,
+    "coverage": 46.1,
+    "exact_match": 13.3,
+    "seconds_per_prompt": 0.0,
+    "llm_seconds_per_prompt": 0.0,
+    "rows": [
+      {
+        "prompt": "A 3-bedroom apartment with 2 bathrooms and 1 balcony.",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "balcony": 1,
+          "storage": 0
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A small 2-bedroom apartment with 1 bathroom and 1 balcony.",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 2,
+          "bathroom": 1,
+          "balcony": 1,
+          "storage": 0
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A large 4-bedroom apartment with 2 bathrooms and 2 balconies.",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 4,
+          "bathroom": 2,
+          "balcony": 2,
+          "storage": 0
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3bhk with 2 bathrooms",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 0,
+          "bathroom": 2,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "two bedroom flat with one bathroom and a balcony",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 0,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "A 4 bedroom apartment, with one dining room, 1 living room, a kitchen and 5 bathrooms and 3 balconies",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 4,
+          "bathroom": 5,
+          "balcony": 3,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedroom apartment where every bedroom has an attached bathroom, plus one common bathroom, a kitchen, a dining room and a balcony garden",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "2 bed 2 bath flat with a study and a pantry",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 2,
+          "bathroom": 2,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "3bhk with a pooja room, a study, 2 bathrooms and a balcony garden",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 0,
+          "bathroom": 2,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "studio apartment with a kitchen, one bathroom and a walk-in closet",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 0,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "A 1 bedroom apartment with a home office, 1 bathroom and a terrace",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 1,
+          "bathroom": 1,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "four bedrooms, three bathrooms, a utility room and two balconies",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 0,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a master bedroom with en-suite, a common bathroom and a garden",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 2,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "A small flat with 1 bedroom, 1 bathroom, a kitchen and a storage room",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 1,
+          "bathroom": 1,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedrooms, 2 bathrooms, a gym and a balcony",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "A 2-bedroom apartment with a guest room, 2 bathrooms and a laundry room",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 2,
+          "bathroom": 2,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "large 5 bedroom house with 4 bathrooms, a library, a dining room and 2 terraces",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 5,
+          "bathroom": 4,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "1 bhk with a balcony",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 0,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "apartment with 3 bedrooms, no balcony, 2 bathrooms and a kitchen",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a kids room, one bathroom and a pantry",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 2,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "A 3-bedroom apartment with 2 bathrooms, a media room and a patio",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "a cosy 1 bedroom flat with a study, a bathroom and a small balcony",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 1,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "two bedrooms with attached bathrooms, a kitchen, a living room and a balcony",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 0,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedroom flat with 3 toilets, a family room and a balcony",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "4bhk with 3 bathrooms, a servant room and a pooja room",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 0,
+          "bathroom": 3,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "an apartment with 2 bedrooms, a music room, one bathroom and a terrace",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 2,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a home theatre, 2 bathrooms and a deck",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 2,
+          "bathroom": 2,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "a 3 bedroom home with a playroom, 2 bathrooms, kitchen, dining area and a veranda",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "flat with three bedrooms, a sauna, two bathrooms and a balcony",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 0,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "1 bedroom apartment with an art studio, a bathroom and a rooftop terrace",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 1,
+          "bathroom": 0,
+          "balcony": 0,
+          "storage": 0
+        },
+        "correct": false,
+        "extras": []
+      }
+    ]
+  },
+  "rules": {
+    "count_accuracy": 96.1,
+    "coverage": 96.9,
+    "exact_match": 83.3,
+    "seconds_per_prompt": 0.0,
+    "llm_seconds_per_prompt": 0.0,
+    "rows": [
+      {
+        "prompt": "A 3-bedroom apartment with 2 bathrooms and 1 balcony.",
+        "produced": {
+          "bedroom": 3,
+          "bathroom": 2,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A small 2-bedroom apartment with 1 bathroom and 1 balcony.",
+        "produced": {
+          "bedroom": 2,
+          "bathroom": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A large 4-bedroom apartment with 2 bathrooms and 2 balconies.",
+        "produced": {
+          "bedroom": 4,
+          "bathroom": 2,
+          "balcony": 2
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3bhk with 2 bathrooms",
+        "produced": {
+          "bedroom": 3,
+          "living room": 1,
+          "kitchen": 1,
+          "bathroom": 2
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "two bedroom flat with one bathroom and a balcony",
+        "produced": {
+          "bedroom": 2,
+          "bathroom": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 4 bedroom apartment, with one dining room, 1 living room, a kitchen and 5 bathrooms and 3 balconies",
+        "produced": {
+          "bedroom": 4,
+          "dining room": 1,
+          "living room": 1,
+          "kitchen": 1,
+          "bathroom": 5,
+          "balcony": 3
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedroom apartment where every bedroom has an attached bathroom, plus one common bathroom, a kitchen, a dining room and a balcony garden",
+        "produced": {
+          "bedroom": 3,
+          "en-suite bathroom": 3,
+          "bathroom": 1,
+          "kitchen": 1,
+          "dining room": 1,
+          "balcony garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bed 2 bath flat with a study and a pantry",
+        "produced": {
+          "bedroom": 2,
+          "bathroom": 2,
+          "study": 1,
+          "pantry": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3bhk with a pooja room, a study, 2 bathrooms and a balcony garden",
+        "produced": {
+          "bedroom": 3,
+          "living room": 1,
+          "kitchen": 1,
+          "pooja room": 1,
+          "study": 1,
+          "bathroom": 2,
+          "balcony garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "studio apartment with a kitchen, one bathroom and a walk-in closet",
+        "produced": {
+          "kitchen": 1,
+          "bathroom": 1,
+          "walk-in closet": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 1 bedroom apartment with a home office, 1 bathroom and a terrace",
+        "produced": {
+          "bedroom": 1,
+          "study": 1,
+          "bathroom": 1,
+          "terrace": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "four bedrooms, three bathrooms, a utility room and two balconies",
+        "produced": {
+          "bedroom": 4,
+          "bathroom": 3,
+          "utility room": 1,
+          "balcony": 2
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a master bedroom with en-suite, a common bathroom and a garden",
+        "produced": {
+          "bedroom": 2,
+          "master bedroom": 1,
+          "en-suite bathroom": 1,
+          "bathroom": 1,
+          "garden": 1
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "A small flat with 1 bedroom, 1 bathroom, a kitchen and a storage room",
+        "produced": {
+          "bedroom": 1,
+          "bathroom": 1,
+          "kitchen": 1,
+          "storage": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedrooms, 2 bathrooms, a gym and a balcony",
+        "produced": {
+          "bedroom": 3,
+          "bathroom": 2,
+          "gym": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 2-bedroom apartment with a guest room, 2 bathrooms and a laundry room",
+        "produced": {
+          "bedroom": 2,
+          "guest room": 1,
+          "bathroom": 2,
+          "utility room": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "large 5 bedroom house with 4 bathrooms, a library, a dining room and 2 terraces",
+        "produced": {
+          "bedroom": 5,
+          "bathroom": 4,
+          "library": 1,
+          "dining room": 1,
+          "terrace": 2
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "1 bhk with a balcony",
+        "produced": {
+          "bedroom": 1,
+          "living room": 1,
+          "kitchen": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "apartment with 3 bedrooms, no balcony, 2 bathrooms and a kitchen",
+        "produced": {
+          "bedroom": 3,
+          "balcony": 0,
+          "bathroom": 2,
+          "kitchen": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a kids room, one bathroom and a pantry",
+        "produced": {
+          "bedroom": 2,
+          "kids room": 1,
+          "bathroom": 1,
+          "pantry": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 3-bedroom apartment with 2 bathrooms, a media room and a patio",
+        "produced": {
+          "bedroom": 3,
+          "bathroom": 2,
+          "media room": 1,
+          "garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "a cosy 1 bedroom flat with a study, a bathroom and a small balcony",
+        "produced": {
+          "bedroom": 1,
+          "study": 1,
+          "bathroom": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "two bedrooms with attached bathrooms, a kitchen, a living room and a balcony",
+        "produced": {
+          "bedroom": 2,
+          "en-suite bathroom": 2,
+          "kitchen": 1,
+          "living room": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedroom flat with 3 toilets, a family room and a balcony",
+        "produced": {
+          "bedroom": 3,
+          "bathroom": 3,
+          "family room": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "4bhk with 3 bathrooms, a servant room and a pooja room",
+        "produced": {
+          "bedroom": 4,
+          "living room": 1,
+          "kitchen": 1,
+          "bathroom": 3,
+          "pooja room": 1
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "an apartment with 2 bedrooms, a music room, one bathroom and a terrace",
+        "produced": {
+          "bedroom": 2,
+          "bathroom": 1,
+          "terrace": 1
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a home theatre, 2 bathrooms and a deck",
+        "produced": {
+          "bedroom": 2,
+          "media room": 1,
+          "bathroom": 2,
+          "garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "a 3 bedroom home with a playroom, 2 bathrooms, kitchen, dining area and a veranda",
+        "produced": {
+          "bedroom": 3,
+          "play room": 1,
+          "bathroom": 2,
+          "kitchen": 1,
+          "dining room": 1,
+          "garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "flat with three bedrooms, a sauna, two bathrooms and a balcony",
+        "produced": {
+          "bedroom": 3,
+          "bathroom": 2,
+          "balcony": 1
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "1 bedroom apartment with an art studio, a bathroom and a rooftop terrace",
+        "produced": {
+          "bedroom": 1,
+          "bathroom": 1,
+          "terrace": 1
+        },
+        "correct": false,
+        "extras": []
+      }
+    ]
+  },
+  "llm": {
+    "count_accuracy": 79.8,
+    "coverage": 85.2,
+    "exact_match": 56.7,
+    "seconds_per_prompt": 13.8,
+    "llm_seconds_per_prompt": 13.8,
+    "rows": [
+      {
+        "prompt": "A 3-bedroom apartment with 2 bathrooms and 1 balcony.",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A small 2-bedroom apartment with 1 bathroom and 1 balcony.",
+        "produced": {
+          "living room": 1,
+          "bedroom": 1,
+          "bathroom": 1,
+          "balcony": 1
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "A large 4-bedroom apartment with 2 bathrooms and 2 balconies.",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 4,
+          "bathroom": 2,
+          "balcony": 2
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3bhk with 2 bathrooms",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "master bedroom": 1,
+          "bathroom": 2,
+          "balcony": 1
+        },
+        "correct": false,
+        "extras": [
+          "master bedroom",
+          "balcony"
+        ]
+      },
+      {
+        "prompt": "two bedroom flat with one bathroom and a balcony",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "bathroom": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 4 bedroom apartment, with one dining room, 1 living room, a kitchen and 5 bathrooms and 3 balconies",
+        "produced": {
+          "dining room": 1,
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "bathroom": 5,
+          "balcony": 3
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedroom apartment where every bedroom has an attached bathroom, plus one common bathroom, a kitchen, a dining room and a balcony garden",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "dining room": 1,
+          "bedroom": 3,
+          "bathroom": 4,
+          "balcony garden": 1
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "2 bed 2 bath flat with a study and a pantry",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 2,
+          "study": 1,
+          "bathroom": 2,
+          "pantry": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3bhk with a pooja room, a study, 2 bathrooms and a balcony garden",
+        "produced": {},
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "studio apartment with a kitchen, one bathroom and a walk-in closet",
+        "produced": {
+          "kitchen": 1,
+          "bathroom": 1,
+          "walk-in closet": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 1 bedroom apartment with a home office, 1 bathroom and a terrace",
+        "produced": {
+          "bedroom": 1,
+          "study": 1,
+          "bathroom": 1,
+          "terrace": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "four bedrooms, three bathrooms, a utility room and two balconies",
+        "produced": {
+          "living room": 1,
+          "bedroom": 4,
+          "bathroom": 3,
+          "utility room": 1,
+          "balcony": 2
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a master bedroom with en-suite, a common bathroom and a garden",
+        "produced": {
+          "master bedroom": 1,
+          "bedroom": 1,
+          "bathroom": 1,
+          "garden": 1
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "A small flat with 1 bedroom, 1 bathroom, a kitchen and a storage room",
+        "produced": {
+          "bedroom": 1,
+          "bathroom": 1,
+          "kitchen": 1,
+          "storage": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedrooms, 2 bathrooms, a gym and a balcony",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "gym": 1,
+          "bathroom": 2,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 2-bedroom apartment with a guest room, 2 bathrooms and a laundry room",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "guest room": 1,
+          "bathroom": 2,
+          "utility room": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "large 5 bedroom house with 4 bathrooms, a library, a dining room and 2 terraces",
+        "produced": {},
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "1 bhk with a balcony",
+        "produced": {
+          "living room": 1,
+          "bedroom": 1,
+          "bathroom": 1,
+          "balcony": 1
+        },
+        "correct": false,
+        "extras": [
+          "bathroom"
+        ]
+      },
+      {
+        "prompt": "apartment with 3 bedrooms, no balcony, 2 bathrooms and a kitchen",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "kitchen": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a kids room, one bathroom and a pantry",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "kids room": 1,
+          "bathroom": 1,
+          "pantry": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 3-bedroom apartment with 2 bathrooms, a media room and a patio",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "media room": 1,
+          "bathroom": 2,
+          "balcony": 1
+        },
+        "correct": false,
+        "extras": [
+          "balcony"
+        ]
+      },
+      {
+        "prompt": "a cosy 1 bedroom flat with a study, a bathroom and a small balcony",
+        "produced": {
+          "bedroom": 1,
+          "study": 1,
+          "bathroom": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "two bedrooms with attached bathrooms, a kitchen, a living room and a balcony",
+        "produced": {
+          "bedroom": 2,
+          "bathroom": 2,
+          "kitchen": 1,
+          "living room": 1,
+          "balcony": 1
+        },
+        "correct": false,
+        "extras": [
+          "bathroom"
+        ]
+      },
+      {
+        "prompt": "3 bedroom flat with 3 toilets, a family room and a balcony",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "family room": 1,
+          "bathroom": 5,
+          "balcony": 1
+        },
+        "correct": false,
+        "extras": []
+      },
+      {
+        "prompt": "4bhk with 3 bathrooms, a servant room and a pooja room",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "master bedroom": 1,
+          "guest room": 1,
+          "bathroom": 3,
+          "servant": 1,
+          "pooja room": 1
+        },
+        "correct": false,
+        "extras": [
+          "master bedroom",
+          "guest room"
+        ]
+      },
+      {
+        "prompt": "an apartment with 2 bedrooms, a music room, one bathroom and a terrace",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "music": 1,
+          "bathroom": 1,
+          "terrace": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a home theatre, 2 bathrooms and a deck",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "media room": 1,
+          "bathroom": 2,
+          "garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "a 3 bedroom home with a playroom, 2 bathrooms, kitchen, dining area and a veranda",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "play room": 1,
+          "bathroom": 2,
+          "kitchen": 1,
+          "dining room": 1,
+          "garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "flat with three bedrooms, a sauna, two bathrooms and a balcony",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bedroom": 3,
+          "sauna": 1,
+          "bathroom": 2,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "1 bedroom apartment with an art studio, a bathroom and a rooftop terrace",
+        "produced": {
+          "art studio": 1,
+          "bathroom": 1,
+          "balcony": 1,
+          "terrace": 1
+        },
+        "correct": false,
+        "extras": [
+          "balcony"
+        ]
+      }
+    ]
+  },
+  "llm+rules": {
+    "count_accuracy": 100.0,
+    "coverage": 100.0,
+    "exact_match": 100.0,
+    "seconds_per_prompt": 0.0,
+    "llm_seconds_per_prompt": 13.8,
+    "rows": [
+      {
+        "prompt": "A 3-bedroom apartment with 2 bathrooms and 1 balcony.",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A small 2-bedroom apartment with 1 bathroom and 1 balcony.",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "bathroom": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A large 4-bedroom apartment with 2 bathrooms and 2 balconies.",
+        "produced": {
+          "living room": 1,
+          "bedroom": 4,
+          "bathroom": 2,
+          "balcony": 2
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3bhk with 2 bathrooms",
+        "produced": {
+          "bedroom": 3,
+          "living room": 1,
+          "kitchen": 1,
+          "bathroom": 2
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "two bedroom flat with one bathroom and a balcony",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "bathroom": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 4 bedroom apartment, with one dining room, 1 living room, a kitchen and 5 bathrooms and 3 balconies",
+        "produced": {
+          "bedroom": 4,
+          "dining room": 1,
+          "living room": 1,
+          "kitchen": 1,
+          "bathroom": 5,
+          "balcony": 3
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedroom apartment where every bedroom has an attached bathroom, plus one common bathroom, a kitchen, a dining room and a balcony garden",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "en-suite bathroom": 3,
+          "bathroom": 1,
+          "kitchen": 1,
+          "dining room": 1,
+          "balcony garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bed 2 bath flat with a study and a pantry",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "bathroom": 2,
+          "study": 1,
+          "pantry": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3bhk with a pooja room, a study, 2 bathrooms and a balcony garden",
+        "produced": {
+          "bedroom": 3,
+          "living room": 1,
+          "kitchen": 1,
+          "pooja room": 1,
+          "study": 1,
+          "bathroom": 2,
+          "balcony garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "studio apartment with a kitchen, one bathroom and a walk-in closet",
+        "produced": {
+          "living room": 1,
+          "kitchen": 1,
+          "bathroom": 1,
+          "walk-in closet": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 1 bedroom apartment with a home office, 1 bathroom and a terrace",
+        "produced": {
+          "living room": 1,
+          "bedroom": 1,
+          "study": 1,
+          "bathroom": 1,
+          "terrace": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "four bedrooms, three bathrooms, a utility room and two balconies",
+        "produced": {
+          "living room": 1,
+          "bedroom": 4,
+          "bathroom": 3,
+          "utility room": 1,
+          "balcony": 2
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a master bedroom with en-suite, a common bathroom and a garden",
+        "produced": {
+          "living room": 1,
+          "bedroom": 1,
+          "master bedroom": 1,
+          "en-suite bathroom": 1,
+          "bathroom": 1,
+          "garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A small flat with 1 bedroom, 1 bathroom, a kitchen and a storage room",
+        "produced": {
+          "living room": 1,
+          "bedroom": 1,
+          "bathroom": 1,
+          "kitchen": 1,
+          "storage": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedrooms, 2 bathrooms, a gym and a balcony",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "gym": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 2-bedroom apartment with a guest room, 2 bathrooms and a laundry room",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "guest room": 1,
+          "bathroom": 2,
+          "utility room": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "large 5 bedroom house with 4 bathrooms, a library, a dining room and 2 terraces",
+        "produced": {
+          "living room": 1,
+          "bedroom": 5,
+          "bathroom": 4,
+          "library": 1,
+          "dining room": 1,
+          "terrace": 2
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "1 bhk with a balcony",
+        "produced": {
+          "bedroom": 1,
+          "living room": 1,
+          "kitchen": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "apartment with 3 bedrooms, no balcony, 2 bathrooms and a kitchen",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "kitchen": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a kids room, one bathroom and a pantry",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "kids room": 1,
+          "bathroom": 1,
+          "pantry": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "A 3-bedroom apartment with 2 bathrooms, a media room and a patio",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "media room": 1,
+          "garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "a cosy 1 bedroom flat with a study, a bathroom and a small balcony",
+        "produced": {
+          "living room": 1,
+          "bedroom": 1,
+          "study": 1,
+          "bathroom": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "two bedrooms with attached bathrooms, a kitchen, a living room and a balcony",
+        "produced": {
+          "bedroom": 2,
+          "en-suite bathroom": 2,
+          "kitchen": 1,
+          "living room": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "3 bedroom flat with 3 toilets, a family room and a balcony",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "bathroom": 3,
+          "family room": 1,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "4bhk with 3 bathrooms, a servant room and a pooja room",
+        "produced": {
+          "servant": 1,
+          "bedroom": 4,
+          "living room": 1,
+          "kitchen": 1,
+          "bathroom": 3,
+          "pooja room": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "an apartment with 2 bedrooms, a music room, one bathroom and a terrace",
+        "produced": {
+          "living room": 1,
+          "music": 1,
+          "bedroom": 2,
+          "bathroom": 1,
+          "terrace": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "2 bedroom apartment with a home theatre, 2 bathrooms and a deck",
+        "produced": {
+          "living room": 1,
+          "bedroom": 2,
+          "media room": 1,
+          "bathroom": 2,
+          "garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "a 3 bedroom home with a playroom, 2 bathrooms, kitchen, dining area and a veranda",
+        "produced": {
+          "living room": 1,
+          "bedroom": 3,
+          "play room": 1,
+          "bathroom": 2,
+          "kitchen": 1,
+          "dining room": 1,
+          "garden": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "flat with three bedrooms, a sauna, two bathrooms and a balcony",
+        "produced": {
+          "living room": 1,
+          "sauna": 1,
+          "bedroom": 3,
+          "bathroom": 2,
+          "balcony": 1
+        },
+        "correct": true,
+        "extras": []
+      },
+      {
+        "prompt": "1 bedroom apartment with an art studio, a bathroom and a rooftop terrace",
+        "produced": {
+          "living room": 1,
+          "art studio": 1,
+          "bedroom": 1,
+          "bathroom": 1,
+          "terrace": 1
+        },
+        "correct": true,
+        "extras": []
+      }
+    ]
+  }
+}
